@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marcel Betański</h1>
-<p align="center" style="font-size: 20px; font-weight: bold;">A passionate Front End Developer from Poland</p>
+<p align="center">A passionate Front End Developer from Poland</p>
 
 - 🌱 I’m currently learning **React**
 
@@ -10,8 +10,6 @@
 <br>
 
 ## My GitHub Stats
-
-<br>
 
 <p>
   &nbsp;
