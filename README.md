@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [**my portfolio**](candyypl.github.io)
+- 👨‍💻 All of my projects are available at [**my portfolio**](https://candyypl.github.io)
 
 - 📫 You can contact me at **aplay58.yt@gmail.com**
 
