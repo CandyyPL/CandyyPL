@@ -19,7 +19,7 @@
 ## My Most Used Languages
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=candyypl&show_icons=true&theme=ayu-mirage&locale=en&layout=compact" alt="candyypl" width="400" height="250" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=candyypl&show_icons=true&theme=ayu-mirage&locale=en&layout=compact" alt="candyypl" width="400" height="250" />
 </p>
 
 <br>
@@ -30,6 +30,6 @@
 
 <p>
   <a href="https://www.buymeacoffee.com/candyypl">
-    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="candyypl" />
+    <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="candyypl" />
   </a>
 </p>
