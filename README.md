@@ -1,37 +1,64 @@
-<h1 align="center">Hi 👋, I'm Marcel Betański</h1>
-<p align="center">A passionate Front End Developer from Poland</p>
-
-- 🌱 I’m currently learning **React**
-
-- 👨‍💻 All of my projects are available at [**my portfolio**](https://candyypl.github.io)
-
-- 📫 You can contact me at **aplay58.yt@gmail.com**
-
-<br>
-
-<h2 align="center">My GitHub Stats</h2>
-
 <p align="center">
-  &nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=candyypl&show_icons=true&theme=ayu-mirage&locale=en" alt="candyypl" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Greetings%20Brave%20Traveller&textBg=false&desc=Welcome%20to%20my%20github%20profile!&reversal=false&animation=twinkling&fontSize=50&section=header&descAlignY=60&fontAlignY=40" />
 </p>
 
-<br>
-
-<h2 align="center">My Most Used Languages</h2>
-
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=candyypl&show_icons=true&theme=ayu-mirage&locale=en&layout=compact" alt="candyypl" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExanJ2ZTI5NWZ3YTM1ZmM3YnByejZldW5lOTJwazZ6MHNnb2QxMGRubyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XcX3Ae8GSDWN1ciqqi/giphy.gif" />
 </p>
 
-<br>
+# 👨🏻‍💻 Something about me
+```yaml
+name: Marcel Betański
+based_in: Poland
+background: Self-Taught & IT Specialist High School Diploma
+contact: aplay58.yt@gmail.com
 
-<h2 align="center">Support me, if you want!</h2>
+current_status: Student
+major: Cybersecurity & Teleinformatics
 
-<br>
+job_status: open to work
+
+skills:
+[
+  web:
+  [
+    JavaScript
+    React
+    Tailwind CSS
+  ]
+
+  backend:
+  [
+    Linux
+    Docker
+    SQL
+  ]
+
+  others:
+  [
+    Git
+    Python
+    C (learning)
+  ]
+]
+
+goals:
+[
+  learn Go
+  learn Rust
+]
+
+hobbies:
+[
+  coding (obviously)
+  artificial inteligence
+  cybersecurity
+  photography
+  movies
+  cycling
+]
+```
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com/candyypl">
-    <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="candyypl" width="250" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=shark&height=300&color=gradient&text=See%20ya!&textBg=false&reversal=false&animation=twinkling&fontSize=50&section=footer&descAlignY=60&fontAlignY=65" />
 </p>
