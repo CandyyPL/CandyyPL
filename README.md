@@ -22,7 +22,10 @@ skills:
 [
   web:
   [
+    HTML
+    CSS
     JavaScript
+    TypeScript
     React
     Tailwind CSS
   ]
@@ -46,6 +49,7 @@ goals:
 [
   learn Go
   learn Rust
+  land a Software Developer job
 ]
 
 hobbies:
