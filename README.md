@@ -28,10 +28,13 @@ skills:
     TypeScript
     React
     Tailwind CSS
+    Angular (learning)
   ]
 
   backend:
   [
+    Java (learning)
+    Spring Boot (learning)
     Linux
     Docker
     SQL
@@ -41,14 +44,12 @@ skills:
   [
     Git
     Python
-    C (learning)
+    C
   ]
 ]
 
 goals:
 [
-  learn Go
-  learn Rust
   land a Software Developer job
 ]
 
