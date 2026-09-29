@@ -11,7 +11,7 @@
 name: Marcel Betański
 based_in: Poland
 background: Self-Taught & IT Specialist High School Diploma
-contact: aplay58.yt@gmail.com
+contact: candyy.it@proton.me
 
 current_status: Student
 major: Cybersecurity & Teleinformatics
@@ -28,16 +28,13 @@ skills:
     TypeScript
     React
     Tailwind CSS
-    Angular (learning)
   ]
 
   backend:
   [
-    Java (learning)
-    Spring Boot (learning)
     Linux
     Docker
-    SQL
+    Databases
   ]
 
   others:
@@ -45,6 +42,7 @@ skills:
     Git
     Python
     C
+    React Native (learning)
   ]
 ]
 
