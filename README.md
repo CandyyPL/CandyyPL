@@ -22,11 +22,8 @@ skills:
 [
   web:
   [
-    HTML
-    CSS
-    JavaScript
     TypeScript
-    React
+    Next.js
     Tailwind CSS
   ]
 
@@ -42,7 +39,6 @@ skills:
     Git
     Python
     C
-    React Native (learning)
   ]
 ]
 
@@ -56,8 +52,7 @@ hobbies:
   coding (obviously)
   artificial inteligence
   cybersecurity
-  photography
-  movies
+  cinema
   cycling
 ]
 ```
